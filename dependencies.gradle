@@ -49,6 +49,7 @@ ext {
 
     testing = [
             mockk: "io.mockk:mockk:1.12.3",
-            truth: "com.google.truth:truth:1.1.3"
+            truth: "com.google.truth:truth:1.1.3",
+            flow_turbine: 'app.cash.turbine:turbine:0.7.0'
     ]
 }
